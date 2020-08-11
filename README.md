@@ -17,3 +17,9 @@
 	email : thanhquy0164@gmail.com
 	sdt : 0375250024
 	social : https://www.facebook.com/thanhquy99/
+
+- Thành Viên 4 : 
+	Họ tên : Lê Ngọc HậU
+	email : ngochaule745@gmail.com
+	sdt : 0362454895
+	social : https://www.facebook.com/haule1999
