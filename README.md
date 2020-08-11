@@ -13,7 +13,7 @@
 	social : https://www.facebook.com/hase.nguyen/
 	
 - Thành Viên 3 : 
-	Họ tên : Trần Thanh Quy
+	Họ và tên : Trần Thanh Quy
 	email : thanhquy0164@gmail.com
 	sdt : 0375250024
 	social : https://www.facebook.com/thanhquy99/
