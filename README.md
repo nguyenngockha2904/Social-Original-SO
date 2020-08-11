@@ -11,3 +11,9 @@
 	email : nguyenlanyth@gmail.com
 	sdt : 0295049514
 	social : https://www.facebook.com/hase.nguyen/
+	
+- Thành Viên 3 : 
+	Họ tên : Trần Thanh Quy
+	email : thanhquy0164@gmail.com
+	sdt : 0375250024
+	social : https://www.facebook.com/thanhquy99/
