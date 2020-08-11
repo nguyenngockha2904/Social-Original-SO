@@ -29,3 +29,8 @@
 	sdt : 03752888**
 	social : https://www.facebook.com/lunlua.nguyen.9
 
+- Thành Viên 6 : 
+	Họ tên : Nguyễn Trọng Dương
+	email : trongduong101199@gmail.com
+	sdt : 0981034840
+	social : https://www.facebook.com/duongmapchanel
