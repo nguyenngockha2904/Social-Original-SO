@@ -34,3 +34,9 @@
 	email : trongduong101199@gmail.com
 	sdt : 0981034840
 	social : https://www.facebook.com/duongmapchanel
+
+- Thành Viên 7 : 
+	Họ tên : Hoàng Đại Dũng 
+	email : hoangdung061019@gmail.com
+	sdt : 0933590395
+	social : https://www.facebook.com/h.d.0619 
