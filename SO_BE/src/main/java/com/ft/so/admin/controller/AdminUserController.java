@@ -78,9 +78,9 @@ public class AdminUserController {
 		if (errors.hasErrors()) {
 			return new ResponseEntity<Object>(errors.getAllErrors(), HttpStatus.BAD_REQUEST);
 		}
-		if (userReponsitory.getUserByEmail(userEditDto.getEmail()) != null) {
-			return new ResponseEntity<String>("Email đã tồn tại!", HttpStatus.BAD_REQUEST);
-		}
+//		if (userReponsitory.getUserByEmail(userEditDto.getEmail()) != null) {
+//			return new ResponseEntity<String>("Email đã tồn tại!", HttpStatus.BAD_REQUEST);
+//		}
 		if (userService.updateUser(id, userEditDto)) {
 			return new ResponseEntity<UserEditDto>(userEditDto, HttpStatus.OK);
 		}
